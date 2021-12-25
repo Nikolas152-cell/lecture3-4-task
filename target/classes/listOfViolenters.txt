@@ -1,0 +1,9 @@
+Name and average fine of violator 
+Kolya Ivanov 307.0
+Ivan Ivanov 340.0
+Name and sum of all violations 
+Kolya Ivanov 921.0
+Ivan Ivanov 67320.0
+Name and quantity of violations 
+Kolya Ivanov 3
+Ivan Ivanov 198

@@ -1,0 +1,697 @@
+[
+
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Kolya",
+        "last_name": "Ivanov",
+        "type": "REDLIGHT",
+        "fine_amount": 340.00
+    },
+
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "REDLIGHT",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    },
+    {
+        "date_time": "2021-05-05 15:39:03",
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "type": "SPEEDING",
+        "fine_amount": 340.00
+    }
+]
